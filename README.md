@@ -2,7 +2,7 @@
 ## Image Processing 2023-2024
 
 Authors:  </br>
-Luke
+Luke      </br>
 Panos
 
 ## Description of the project
